@@ -19,18 +19,15 @@ The technical requirements for Project 1 are as follows:
     
 BasicPumpkinSpice -- Project 1 Outline
 
-What make a successful AirBnB in Denver?
-    How often is a listing booked? How are they reviewed?
+How to get a high listing score in Denver?
 
-1) How does the neighborhood affect a listing?
-    a) Does a suburban or urban home generate more revenue?
-    b) Do nearby attractions have any affect?
+1) Number of listings in an area (Heatmap?)
 
-2) How does ammenities affect a listing?
-    a) Shared or own place?
-    b) WiFi?
-    c) Bathrooms count?
+2) Listings by rating (Heatmap?)
 
-3) How does the host affect a listing?
-    a) Multiple listing (i.e. professional host)
-    b) Profile picture available
+3) Property Type
+
+4) Number of Ammenities
+
+5) Host
+
