@@ -19,15 +19,15 @@ The technical requirements for Project 1 are as follows:
     
 BasicPumpkinSpice -- Project 1 Outline
 
-How to get a high listing score in Denver?
+How to get a high review score on your Airbnb listing in Denver?
 
-1) Number of listings in an area (Heatmap?)
+1) How does the overall number of listings in an area/neighborhood affect a review score? (Heatmap?) --> Jazz
 
-2) Listings by rating (Heatmap?)
+2) Are there areas/neighborhoods that have a higher review score naturally? (Heatmap?) --> Tim
 
-3) Property Type
+3) Does the type of property affect a review score? --> Megan
 
-4) Number of Ammenities
+4) Does the number of ammenities available affect a review score? --> Olivia
 
-5) Host
+5) Does the listed information about the host affect the review score? (Jill score haha) --> Jacob
 
