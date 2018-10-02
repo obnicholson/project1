@@ -21,13 +21,13 @@ BasicPumpkinSpice -- Project 1 Outline
 
 How to get a high review score on your Airbnb listing in Denver?
 
-1) How does the overall number of listings in an area/neighborhood affect a review score? (Heatmap?)
+1) How does the overall number of listings in an area/neighborhood affect a review score? (Heatmap?) --> Jazz
 
-2) Are there areas/neighborhoods that have a higher review score naturally? (Heatmap?)
+2) Are there areas/neighborhoods that have a higher review score naturally? (Heatmap?) --> Tim
 
-3) Does the type of property affect a review score?
+3) Does the type of property affect a review score? --> Megan
 
-4) Does the number of ammenities available affect a review score?
+4) Does the number of ammenities available affect a review score? --> Olivia
 
-5) Does the listed information about the host affect the review score? (Jill score haha)
+5) Does the listed information about the host affect the review score? (Jill score haha) --> Jacob
 
